@@ -1,0 +1,14 @@
+{
+  "articles": {
+    "codex-skills/01-codex-get-filehash-install-error.md": {
+      "status": "proposed",
+      "slug": "codex-get-filehash-install-error",
+      "sourceCommit": "78e5f85"
+    },
+    "codex-skills/02-comment-only-xunit-skill-design.md": {
+      "status": "proposed",
+      "slug": "comment-only-xunit-skill-design",
+      "sourceCommit": "78e5f85"
+    }
+  }
+}
